@@ -1,7 +1,6 @@
 # parallax-js
-![viewfinal]()
-![viewfinal]()
-- [Demo Project]()
+
+- [Demo Project](https://fatemeabdolmaleki.github.io/parallax-js/)
 
 - Developed by fateme abdolmaleki
 
